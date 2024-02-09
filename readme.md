@@ -21,7 +21,7 @@ Descubra o número secreto chutando.
 **Como usar:**
 
 1. Clone o repositório: `git clone https://github.com/RicardoPrazeres/jogo-do-numero-secreto`
-3. Execute o jogo: `https://jogo-secreto-lac.vercel.app/`
+3. Execute o jogo: https://jogo-secreto-lac.vercel.app/
 
 **Contribuições:**
 
