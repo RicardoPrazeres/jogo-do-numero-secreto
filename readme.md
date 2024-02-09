@@ -1,13 +1,41 @@
-# Olá, Bem vindo ao jogo do número secreto.
+#  Bem-vindo ao meu projeto!
 
-## Ferramentas utilizadas:
+##  Jogo do número Secreto
 
+**Descrição:**
+
+Descubra o número secreto chutando.
+
+**Funcionalidades:**
+
+* Jogo para um jogador.
+* Interface gráfica amigável.
+* Modo de um jogador contra o computador.
+
+**Tecnologias:**
+
+* JavasCript
 * HTML
-
 * CSS
 
-* JavaScript
+**Como usar:**
 
-## Feito por:
+1. Clone o repositório: `git clone https://github.com/RicardoPrazeres/jogo-do-numero-secreto`
+3. Execute o jogo: `https://jogo-secreto-lac.vercel.app/`
 
-### Ricardo Araújo
+**Contribuições:**
+
+* Sinta-se à vontade para abrir issues e enviar pull requests.
+* Siga o guia de estilo na pasta `docs`.
+
+**Licença:**
+
+MIT
+
+**Agradecimentos:**
+
+* A Alura + Oracle.
+
+**Contato:**
+
+* ricardoara.prazeres@gmail.com
